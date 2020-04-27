@@ -17,3 +17,14 @@ body {
   font-size: 1.5em;
 
 }
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  padding: 40px;
+  border-color: red;
+  border-style: dashed;
+  border-width: 1px;
+}
